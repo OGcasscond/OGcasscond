@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @OGcasscond
-- 👀 I’m interested in R and coding for data science / my scientific projects
-- 🌱 I’m currently learning R
+- 👋 Hi, I’m @cass
+
+- 👀 I’m interested in R for biological sciences data analysis / my scientific projects
+- 🌱 I’m currently learning R (somewhat)
 - 💞️ I’m looking to collaborate on data analysis
+
 - 📫 How to reach me on twitter @ccondray
 
 <!---
